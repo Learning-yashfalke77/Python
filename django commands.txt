@@ -1,0 +1,32 @@
+django-admin  startproject {projectName}   :    To start the project of django
+python manage.py runserver                          : Start server
+python manage.py startapp products            : To start app
+python manage.py makemigrations               : tells pycharms that we have created a model and attributes                                                                                           that we have created
+python manage.py migrate                             : to migrate all data from model to database 
+python manage.py createsuperuser                : to create user of admin
+---------------------------------------------------------------------------------------------------------
+Username:admin
+email: yashmistry121@gmail.com
+password:yyyh
+
+Username:yashfalke77
+email: yashfalke77@gmail.com
+password:yashf
+
+Username: harshsunwani11
+email: harshsunwani11@gmail.com
+password:harshs
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+STATIC_URL = '/static/'
+MEDIA_URL = "/images/"
+MEDIA_ROOT = BASE_DIR
+
+STATIC_ROOT = '/home/yashfalke77/Online-Grocery-Store/static'
+'yashfalke77.pythonanywhere.com'
+
+ 
+

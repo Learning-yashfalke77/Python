@@ -1,0 +1,9 @@
+for commenting selected lines: ctrl + /
+to correct the wrong things automatticaly : ctrl + shift + enter
+to reformat code: ctrl + alt + L
+to move your code to one line up/down : alt + shift + up/down
+to copy previous line code into next line: ctrl + d
+to know the argument that a function can take and its features:  ctrl + hover over the function
+to replace or add some code to the given code: EDIT->FIND->REPLACE
+to read the documentation of any particular inbuilt function or class: ctrl + q
+To get code of the inbuilt function: ctlr + k
